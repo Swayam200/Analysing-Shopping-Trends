@@ -96,14 +96,14 @@ The code and dataset for this project are available in the following repository:
 ### Snapshots
 
 1. Data Summary:
-   ![Data Summary](![Picture 1](https://github.com/user-attachments/assets/1d81cc9c-45ad-43c1-8066-2b0556a4b6af))
+   ![Picture 1](https://github.com/user-attachments/assets/1d81cc9c-45ad-43c1-8066-2b0556a4b6af)
 
 2. Spending Patterns:
-   ![Spending Patterns](![Picture 2](https://github.com/user-attachments/assets/16be1333-33cf-43e3-b34c-0d1e3be1b366)
+   ![Picture 2](https://github.com/user-attachments/assets/16be1333-33cf-43e3-b34c-0d1e3be1b366)
 
 
 3. Payment Preferences:
-   ![Payment Preferences](![Picture 3](https://github.com/user-attachments/assets/dacbea04-978c-48a4-aa89-2fba5ee8bb2e))
+   ![Picture 3](https://github.com/user-attachments/assets/dacbea04-978c-48a4-aa89-2fba5ee8bb2e)
 
 ---
 
