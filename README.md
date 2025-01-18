@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60ecd2d9-c281-478a-91cf-f5162166b166)# Analysing Shopping Trends
+# Analysing Shopping Trends
 
 ## Introduction
 
